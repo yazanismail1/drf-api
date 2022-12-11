@@ -1,0 +1,30 @@
+.nav-bar {
+    text-decoration: none;
+    height: 45px;
+    background-color: #333333;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%
+}
+
+.items-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    list-style: none;
+    height: 45px;
+    gap: 3%
+}
+
+.items-list li a {
+    text-decoration: none;
+    color: #a8a8a8;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.items-list li a:hover {
+    color: #c2c0c0;
+}
