@@ -1,0 +1,27 @@
+body {
+    padding: 45px 25%;
+    line-height: 1.75;
+}
+
+.home-title {
+    padding: 5% 0 1% 0;
+}
+
+.home-text {
+    text-align: justify;
+}
+
+.button {
+    margin-top: 20px;
+    background-color: #0071e3;
+    color: #f1f7fd;
+    border: none;
+    border-radius: 100px;
+    padding: 7px 15px;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: #1277dc;
+    cursor: pointer;
+}
