@@ -47,6 +47,6 @@ $ python manage.py runserver
 
 ![](assets/screencapture-127-0-0-1-8000-api-v1-countries-2022-12-12-10_30_43.jpg)
 
-**Details/PUT/PATCH Routes**
+**Details/PUT/PATCH/DELETE Routes**
 
 ![](assets/screencapture-127-0-0-1-8000-api-v1-countries-1-2022-12-12-10_32_03.jpg)
