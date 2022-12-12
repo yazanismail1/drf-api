@@ -131,7 +131,6 @@ class Country(models.Model):
     independence_day = models.DateField()
     author = models.ForeignKey(get_user_model(),on_delete=models.CASCADE)
 
-
     def __str__(self):
         return self.country
 
